@@ -1,6 +1,7 @@
-[{
-    "name": "NADA",
-    "samples": [
+[ 
+{ "name": "PARAGUAY", 
+"mode": false, 
+"lista":  [
       {
         "name": "Nada 1x1",
         "uri": "https://corsproxy.io/?url=http://exoplay.epizy.com/gogle/google.php?video=VAiJvnsyeET_layFarr3f_ayBErJDTJLjbZXUznEsaj3.6OUh1hOCLPiRO1_gjrU0L51_g0smwMQ1jKxCfQfZEFroyH5EtlzZdnYIJ19cyDDQ8V2hBKvwxidlOZb71s1",
