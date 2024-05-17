@@ -73,11 +73,11 @@ http://regioplay.xyz/223022/Un.rescate.de.huevitos.2021.1080p-lat-SRREGIO.NET.mk
 http://regioplay.xyz/223022/Space.Jam.Una.Nueva.Era.2021.1080P-SrRegio.Net.mkv
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/I/714W6w6bY+L._AC_SY741_.jpg" group-title="peliculas",COCO | REGIOFLIX
 http://regioplay.xyz/223022/coco.mkv
-#EXTINF:1  tvg-id="my_channels/tigosport3hd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/579.png"  provider-logo="" provider-type="iptv", TIGO SPORT 3 HD
+#EXTINF:1  tvg-id="my_channels/tigosport3hd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/579.png"  group-title="paraguay", TIGO SPORT 3 HD
 http://95.216.35.163:1234/stream/my_channels/tigosport3hd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
 
-#EXTINF:2  tvg-id="my_channels/tigosporthd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/563.png"  provider-logo="" provider-type="iptv", TIGO SPORT HD
+#EXTINF:2  tvg-id="my_channels/tigosporthd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/563.png"  group-title="paraguay", TIGO SPORT HD
 http://95.216.35.163:1234/stream/my_channels/tigosporthd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
 
-#EXTINF:3  tvg-id="my_channels/tigosportplushd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/548.png"  provider-logo="" provider-type="iptv", TIGO SPORT PLUS HD
+#EXTINF:3  tvg-id="my_channels/tigosportplushd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/548.png"  group-title="paraguay", TIGO SPORT PLUS HD
 http://95.216.35.163:1234/stream/my_channels/tigosportplushd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
