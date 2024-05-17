@@ -1,44 +1,9 @@
 #EXTM3U 
-#EXTINF:-1 tvg-id="156" tvg-name="+ Listas en M3U.CL" tvg-logo="https://i2.paste.pics/84dae4a003b365e9b71ea1c50eb61c21.png", + Listas en M3U.CL * | CL
-https://scl.edge.grupoz.cl/transmision/live/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="807" tvg-name="LIM TV" tvg-logo="https://i.paste.pics/ac5034d49e28ab82a3372ff08c6b9573.png", LIM TV * | PY
-https://live.limplay.ml/limtv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="836" tvg-name="ABC TV" tvg-logo="https://lh3.googleusercontent.com/-1aiXS-QFPKk/YIDhp6c_siI/AAAAAAABB2Q/nflof0ITHkMoR3Jh4jO78mWmvAUw4vCyACK8BGAsYHg/s512/2021-04-21.png", ABC TV | PY
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="834" tvg-name="Aregua TV" tvg-logo="https://lh3.googleusercontent.com/-Y_QrHv3rASM/YH9ky40KqbI/AAAAAAABB0w/rH6pfiIhmjYQvOxzRv0XJRnDAZoa_1DPwCK8BGAsYHg/s512/2021-04-20.jpg", Aregua TV | PY
-https://inliveserver.com:1936/11038/11038/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="832" tvg-name="Cablemas TV" tvg-logo="https://lh3.googleusercontent.com/-gJfa300HIW8/YH9i0sA4HoI/AAAAAAABB0c/wG725xrO-_cjTrAz0XP4F_TMjoZxawdCQCK8BGAsYHg/s512/2021-04-20.png", Cablemas TV | PY
-https://59ce1298bfb98.streamlock.net/cablemas/cablemas/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="808" tvg-name="Canal Noticias PY" tvg-logo="https://lh3.googleusercontent.com/-uESPT9vzTsg/YH4uDVf6owI/AAAAAAABBvk/ofR4K63mk3YzT3K7NV15iELpkslhkGglwCK8BGAsYHg/s512/2021-04-19.jpg", Canal Noticias PY | PY
-http://edge-live14-sl.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-audio_20000=144800-video=2100000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1192" tvg-name="Costanera TV" tvg-logo="https://i2.paste.pics/be53f445553c6898a35a5d449414c096.png", Costanera TV | PY
-https://inliveserver.com:1936/11034/11034/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="830" tvg-name="Dismar TV" tvg-logo="https://lh3.googleusercontent.com/-GT3zuzkxAfw/YH9fJbWcd3I/AAAAAAABB0E/XiKNqrOnZroPtJCy_4UK4qH_IPEWBs7YACK8BGAsYHg/s512/2021-04-20.jpg", Dismar TV | PY
-http://tigocloud.desdeparaguay.net:1935/dismartv/dismartv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="835" tvg-name="Estacion Cristal" tvg-logo="https://lh3.googleusercontent.com/-OVKm6WJqsOE/YH9lkO3dBoI/AAAAAAABB04/rL_BJgKt2Hw7UJjK0PN4Gl0lbNEW9ZK4wCK8BGAsYHg/s512/2021-04-20.jpg", Estacion Cristal | PY
-https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="816" tvg-name="Farra Play" tvg-logo="https://lh3.googleusercontent.com/-Vmu2Cvi2Rj8/YH42aPZcKeI/AAAAAAABBw0/U3tG7jCKTvQKmyjFA8hrLnL8sp5SdghKgCK8BGAsYHg/s512/2021-04-19.jpg", Farra Play | PY
-http://159.203.148.226/live/farra.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1021" tvg-name="Fiera TV" tvg-logo="https://i2.paste.pics/e66996f3f754023b6b6bf783de16b564.png", Fiera TV | PY
-https://streamcasthd.com:19360/fieraproducciones/fieraproducciones.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="829" tvg-name="Frutillar TV" tvg-logo="https://i2.paste.pics/0038e6a73f02576a0c251694a14acc41.png", Frutillar TV | PY
-https://59ce1298bfb98.streamlock.net:443/frutillarfm/frutillarfm/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="833" tvg-name="Integracion TV" tvg-logo="https://lh3.googleusercontent.com/-pYIHKP2Qyg0/YH9jhwB9UHI/AAAAAAABB0k/0_W6p7BFaJsGAXrY-zkavA-7kVTlIxdugCK8BGAsYHg/s512/2021-04-20.png", Integracion TV | PY
-http://nextplayparaguay.live/hls/integraciontv.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="819" tvg-name="Mi TV" tvg-logo="https://lh3.googleusercontent.com/-EvztcqftXgc/YH47C8J3ByI/AAAAAAABBxg/wV8hmM0M5MMPL9Im4r1eQRejLGb9wUIkQCK8BGAsYHg/s512/2021-04-19.png", Mi TV | PY
-https://rds3.desdeparaguay.net/mitv/mitv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="811" tvg-name="Paravision" tvg-logo="https://lh3.googleusercontent.com/-1fUjD2FTrlU/YH4xkxag6PI/AAAAAAABBwE/ESDwMnL4nlsKPWztFXz676S0xTg-ROj6wCK8BGAsYHg/s512/2021-04-19.jpg", Paravision | PY
-http://edge-live14-hr.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-audio_20000=144800-video=1480000.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="831" tvg-name="RCC TV" tvg-logo="https://lh3.googleusercontent.com/-42jVNrSGxwM/YH9gEZtFVRI/AAAAAAABB0M/JmBFO8jzGg8kfy1LbnUnf9NOJAAi8khsQCK8BGAsYHg/s512/2021-04-20.png", RCC TV | PY
-https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="818" tvg-name="RCN TV" tvg-logo="https://lh3.googleusercontent.com/-vspWqybudCg/YH45Nw70ibI/AAAAAAABBxI/z4bcSSiJ7tco2DjK18mEDz8yiTtc9WCyQCK8BGAsYHg/s512/2021-04-19.jpg", RCN TV | PY
-https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="828" tvg-name="Somos Del Este TV" tvg-logo="https://lh3.googleusercontent.com/-y3QFWBQHE-I/YH9dccPTdGI/AAAAAAABBz0/R4xo5fq8-k8QhAujzC3p7vY5ksP7qcOQQCK8BGAsYHg/s512/2021-04-20.jpg", Somos Del Este TV | PY
-https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="812" tvg-name="Suceso TV" tvg-logo="https://lh3.googleusercontent.com/-bcd9_hX8ZuE/YH4ynd4hdII/AAAAAAABBwM/uJ-axhhpjBMWcze2sO9PgWgyVw80-1d1gCK8BGAsYHg/s512/2021-04-19.png", Suceso TV | PY
-https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="817" tvg-name="Unicanal" tvg-logo="https://lh3.googleusercontent.com/-RjyvLZJ0ed4/YH44rJhzBEI/AAAAAAABBxA/BYT7vltKAgsulzaQkdoAg8KadCOWEXHZwCK8BGAsYHg/s512/2021-04-19.jpg", Unicanal | PY
-http://45.55.127.106/live/unicanal.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="827" tvg-name="Uniradio TV" tvg-logo="https://lh3.googleusercontent.com/-34FgWqzMBDg/YH9cw6_T2TI/AAAAAAABBzs/kBRRqFmgxqoFDZbfXOnL4wj8E58LW9jkQCK8BGAsYHg/s512/2021-04-20.png", Uniradio TV | PY
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
-https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:1  tvg-id="my_channels/tigosport3hd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/579.png"  provider-logo="" provider-type="iptv", TIGO SPORT 3 HD
+http://95.216.35.163:1234/stream/my_channels/tigosport3hd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
+
+#EXTINF:2  tvg-id="my_channels/tigosporthd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/563.png"  provider-logo="" provider-type="iptv", TIGO SPORT HD
+http://95.216.35.163:1234/stream/my_channels/tigosporthd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
+
+#EXTINF:3  tvg-id="my_channels/tigosportplushd" tvg-logo="https://cdn.latam.tivoservice.com/images/static/logos//112x32/548.png"  provider-logo="" provider-type="iptv", TIGO SPORT PLUS HD
+http://95.216.35.163:1234/stream/my_channels/tigosportplushd/master.m3u8?u=manutv&p=bbb8fae206ff7742bbd50b59946ba705a29fcf4da95b3b38a04e629c3242473d
