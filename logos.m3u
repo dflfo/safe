@@ -1,55 +1,45 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png" group-title="PARAGUAY  🇵🇾", TELEFUTURO
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/xdmpe6xxcrcjq8k9h5dvl/telefuturo.json?rlkey=dykbivzs99u16qgi1dx9d7ngj&st=u24dmfgf&dl=0
+https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd
+#EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/LATELE/EXPORTACION_WEB/SS/LATELE_t-290x163.png" group-title="PARAGUAY  🇵🇾", LA TELE
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/q118jxq0g390dywmibhy7/latele.json?rlkey=i6t9puhq8eu7klzp8ahtmxbw2&st=w16dkt2r&dl=0
+https://cdn.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_Live_dash_enc/LA_TELE_C4.mpd
+#EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/SNT/EXPORTACION_WEB/SS/SNT_t-290x163.png" group-title="PARAGUAY  🇵🇾", SNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/7fei1s9k77s34989rw8cl/snt.json?rlkey=2u0haw0ve8u0ib6ab1kk9rwkc&st=6gy8f1lq&dl=0
+https://cdn.cvattv.com.ar/live/c4eds/SNT_C4/SA_Live_dash_enc/SNT_C4.mpd
+#EXTINF:-1 tvg-logo="https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png" group-title="PARAGUAY  🇵🇾", C9N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/aqyzmfhnl8ioxx5s1kbky/c9n.json?rlkey=la8ytglc74h7kp16e3x89r0bj&st=mcrjxeq0&dl=0
+https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd
+#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/GENHD/EXPORTACION_WEB/SS/GENHD_t-290x163.png" group-title="PARAGUAY  🇵🇾", GEN TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/hp2jz6lqe38dntsanro65/gentv.json?rlkey=omxjssdg3qd49jp3d89bkudh5&st=rn0i00qd&dl=0
+https://cdn.cvattv.com.ar/live/c7eds/GEN_TV/SA_Live_dash_enc/GEN_TV.mpd
+#EXTINF:-1 tvg-logo="https://clarovideocdn6.clarovideo.net/CVPERU/PELICULAS/TRECEPY/EXPORTACION_WEB/SS/TRECEPY_t-290x163.png" group-title="PARAGUAY  🇵🇾", TRECE 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/884lpqsqxz515qjc5tvm2/eltrece.json?rlkey=0b7xusc9cfkzmx9wqghb307re&st=p9o8nbcy&dl=0
+https://cdn.cvattv.com.ar/live/c4eds/RPC_C4/SA_Live_dash_enc/RPC_C4.mpd
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
 https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
