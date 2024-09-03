@@ -11,9 +11,11 @@
         {
       "name": "C9N",
       "logo_url": "https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/C9N/EXPORTACION_WEB/SS/C9N_t-290x163.png",
-      "drm_type": "clearkey",
+      "drm_id": "drm_ck",
       "stream_url": "https://cdn.cvattv.com.ar/live/c5eds/C9N_C4/SA_Live_dash_enc/C9N_C4.mpd",
-      "drm_key": "https://dl.dropbox.com/scl/fi/aqyzmfhnl8ioxx5s1kbky/c9n.json?rlkey=la8ytglc74h7kp16e3x89r0bj&st=mcrjxeq0&dl=0"
+      "drm_type": "clearkey",
+      "drm_key": "AAAABBBB:00001111"
+      
     },
       ]
     },
