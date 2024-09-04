@@ -65,6 +65,11 @@ https://cdn.cvattv.com.ar/live/c7eds/Canal_PRO/SA_Live_dash_enc/Canal_PRO.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/vad140qpljr2xmvo2bmxg/paravision.json?rlkey=b0ki2h5otjp2mscvwe10vnhdr&st=cylqw0h7&dl=0
 https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C4.mpd
 
+#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PARAGUAYTV/EXPORTACION_WEB/SS/PARAGUAYTV_t-290x163.png" group-title="PARAGUAY  🇵🇾", PARAGUAY TV 🇵🇾
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4mjilpmoxbn6rwrlenqiy/pytv.json?rlkey=vljpy19jz6f919ipxsvmeb0zi&st=f743vbo6&dl=0
+https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
+
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR🎬 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4qsp16okv67uowerfsyel/cineargentino.json?rlkey=dh72nvwz5mb004ejz1lh2l9q4&st=qglrfje1&dl=0
