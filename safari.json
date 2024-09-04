@@ -7,7 +7,8 @@
           "name": "Channel Basic",
           "logo_url":"https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png"
           "drm_id": "drm_ck",
-          "drm_license_url": "https://dl.dropbox.com/scl/fi/xdmpe6xxcrcjq8k9h5dvl/telefuturo.json?rlkey=dykbivzs99u16qgi1dx9d7ngj&st=u24dmfgf&dl=0",
+          "drm_type": "clearkey",
+          "drm_key": "AAAABBBB:00001111"
           "stream_url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd"
         }
       ]
