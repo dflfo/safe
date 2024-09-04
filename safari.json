@@ -1,4 +1,54 @@
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRydd6eZjLS9rMBWoW1TLuT38JD-_hPD3hIRSWrOECyY2oyg4WLXUgvqTueVxZ6GiXenQM&usqp=CAU" group-title="🎬 CINE Y SERIES", CINE AR
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d44f40e49d2945c1a3701c0885ff0b00:6382b6279087402714b6824688c456df
-https://cdn.cvattv.com.ar/live/c6eds/INCAA_Tv/SA_Live_dash_enc_2A/INCAA_Tv.mpd
+{
+  "categories": [
+    {
+      "name": "Sample Basic",
+      "channels": [
+        {
+          "name": "Channel Basic",
+          "stream_url": "https://.../basic.m3u8"
+        }
+      ]
+    },
+    {
+      "name": "Sample with DRM",
+      "channels": [
+        {
+          "name": "Channel ClearKey",
+          "drm_id": "drm_ck",
+          "stream_url": "https://.../clearkey.mpd"
+        },
+        {
+          "name": "Channel Widevine",
+          "drm_id": "drm_wv",
+          "stream_url": "https://.../widevine.mpd"
+        },
+        {
+          "name": "Channel PlayReady",
+          "drm_id": "drm_pr",
+          "stream_url": "https://.../playready.mpd"
+        }
+      ]
+    },
+    {
+      "name": "Sample with UserAgent & Referer",
+      "channels": [
+        {
+          "name": "Channel /w UserAgent",
+          "stream_url": "https://.../useragent.m3u8",
+          "user_agent": "VLCPlayer (Android 12)"
+        },
+        {
+          "name": "Channel /w Referer",
+          "stream_url": "https://.../referer.m3u8",
+          "referer": "https://..."
+        },
+        {
+          "name": "Channel /w UA+Referer",
+          "stream_url": "https://.../ua-referer.m3u8",
+          "user_agent": "VLCPlayer (Android 12)",
+          "referer": "https://..."
+        }
+      ]
+    }
+  ]
+}
