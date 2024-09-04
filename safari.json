@@ -8,7 +8,7 @@
           "logo_url":"https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png"
           "drm_id": "drm_ck",
           "drm_type": "clearkey",
-          "drm_key": "AAAABBBB:00001111"
+          "drm_key": "AAAABBBB:00001111",
           "stream_url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd"
         }
       ]
