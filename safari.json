@@ -1,57 +1,6 @@
 {
-  "categories": [
-    {
-      "name": "Sample Basic",
-      "channels": [
-        {
-          "name": "Channel Basic",
-          "logo_url":"https://clarovideocdn8.clarovideo.net/CVPERU/PELICULAS/TELEFUTURO/EXPORTACION_WEB/SS/TELEFUTURO_t-290x163.png"
-          "drm_type": "clearkey",
-          "drm_key": "AAAABBBB:00001111",
-          "stream_url": "https://cdn.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_Live_dash_enc/TELEFUTURO_C4.mpd"
-        }
-      ]
-    },
-    {
-      "name": "Sample with DRM",
-      "channels": [
-        {
-          "name": "Channel ClearKey",
-          "drm_id": "drm_ck",
-          "stream_url": "https://.../clearkey.mpd"
-        },
-        {
-          "name": "Channel Widevine",
-          "drm_id": "drm_wv",
-          "stream_url": "https://.../widevine.mpd"
-        },
-        {
-          "name": "Channel PlayReady",
-          "drm_id": "drm_pr",
-          "stream_url": "https://.../playready.mpd"
-        }
-      ]
-    },
-    {
-      "name": "Sample with UserAgent & Referer",
-      "channels": [
-        {
-          "name": "Channel /w UserAgent",
-          "stream_url": "https://.../useragent.m3u8",
-          "user_agent": "VLCPlayer (Android 12)"
-        },
-        {
-          "name": "Channel /w Referer",
-          "stream_url": "https://.../referer.m3u8",
-          "referer": "https://..."
-        },
-        {
-          "name": "Channel /w UA+Referer",
-          "stream_url": "https://.../ua-referer.m3u8",
-          "user_agent": "VLCPlayer (Android 12)",
-          "referer": "https://..."
-        }
-      ]
-    }
-  ]
+    "versionCode": 532,
+    "versionName": "v2.2",
+    "changelog": ["iptv-org as default playlist", "app in landscape mode", "ffmpeg libs", "optimize prebuffer", "change player layout", "and more.."],
+    "downloadUrl": "https://github.com/hariimurti/NontonTV/releases/download/v2.4/net.harimurti.tv_v2.2_b532.apk"
 }
