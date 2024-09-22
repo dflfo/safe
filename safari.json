@@ -80,12 +80,12 @@ https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/in
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4mjilpmoxbn6rwrlenqiy/pytv.json?rlkey=vljpy19jz6f919ipxsvmeb0zi&st=f743vbo6&dl=0
 https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR🎬 
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR 
 #KODIPROP:inputstream.adaptive.license_type=widevine
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net:443?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy
 http://csc-nod-edge01.sensa.com.ar/live/eds/CineAR/live_dash_cld/CineAR.mpd
-
-#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="PARAGUAY  🇵🇾", SUR TV 🇵🇾
+🇵🇾
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES",  CINE AR 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT:http-user-agent="FireFox"
 #EXTVLCOPT--http-reconnect=true
