@@ -70,12 +70,12 @@ https://cdn.cvattv.com.ar/live/c4eds/PARAVISION_C4/SA_Live_dash_enc/PARAVISION_C
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4mjilpmoxbn6rwrlenqiy/pytv.json?rlkey=vljpy19jz6f919ipxsvmeb0zi&st=f743vbo6&dl=0
 https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PARAGUAYTV/EXPORTACION_WEB/SS/PARAGUAYTV_t-290x163.png" group-title="EVENTO PY  🇵🇾", EVENTOPY 🇵🇾
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/pz8vnxnzl98gd6e3iy3iy/Tigo2.png?rlkey=lhxm0lecsz5juxaatnw98o7qi&st=6m7l73xq&dl=0g" group-title="EVENTO PY  🇵🇾", EVENTOPY 🇵🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/rcuxixcdccb41y46s03z8/verfut.json?rlkey=kw6msfx8w3u84khp0xky84w4g&st=tuvyzf4z&dl=0
 https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/25ca218d53194065bedf6d998ace462e/index.mpd
 
-#EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PARAGUAYTV/EXPORTACION_WEB/SS/PARAGUAYTV_t-290x163.png" group-title="EVENTO PY 🇵🇾",EVENTOPY2 🇵🇾
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/pz8vnxnzl98gd6e3iy3iy/Tigo2.png?rlkey=lhxm0lecsz5juxaatnw98o7qi&st=6m7l73xq&dl=0" group-title="EVENTO PY 🇵🇾",EVENTOPY2 🇵🇾
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://dl.dropbox.com/scl/fi/4mjilpmoxbn6rwrlenqiy/pytv.json?rlkey=vljpy19jz6f919ipxsvmeb0zi&st=f743vbo6&dl=0
 https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mpd
