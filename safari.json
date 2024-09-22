@@ -73,7 +73,7 @@ https://cdn.cvattv.com.ar/live/c7eds/Paraguay_TV/SA_Live_dash_enc/Paraguay_TV.mp
 #EXTINF:-1 tvg-logo="https://clarovideocdn2.clarovideo.net/CVPERU/PELICULAS/PARAGUAYTV/EXPORTACION_WEB/SS/PARAGUAYTV_t-290x163.png" group-title="DEPORTES  🇵🇾", CLARO SPORTS
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.pt.verspective.net:443?deviceId=OTAyMjRlY2YtOTg4NC0zYWQ1LWIwYzktZmNjMTNlOTMzNmEy
-http://csc-nod-edge01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
+httpS://csc-nod-edge01.sensa.com.ar/live/eds/ClaroSports/live_dash_cld/ClaroSports.mpd
 
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/cinear6387.logowik.com.webp" group-title="🎬 CINE Y SERIES", CINE AR🎬 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
